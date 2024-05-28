@@ -1,6 +1,6 @@
 # Toy Sales Regression Analysis with Linear and Polynomial Features
 
-In this project, I explored linear regression analysis with additional polynomial features and regularization techniques. Using a toy dataset (LR_data.csv) consisting of 10 features (x1-x10) and a measurement y, I investigated the impact of various regression methods on model performance.
+In this project, I explored linear regression analysis with additional polynomial features and regularization techniques. Using a toy dataset (LR_data.csv) consisting of 10 features (x1-x10) and a measurement y, I investigated the impact of various regression methods on model performance, which will help predict the number of toys sold as the predictor variable.
 
 ## Table of Contents
 
